@@ -22,6 +22,7 @@ ul{
   	list-style-type: none;
   	counter-reset: li; 
   	padding: 0;	
+  	margin-top: 25px;
   }
 
 
@@ -67,8 +68,6 @@ input[type="checkbox"]:checked + label{
 	padding: 10px;
 	position: relative;
 	margin: auto;
-    margin-top: 20px;
-
-	
+    margin-top: 25px;
 }
 
